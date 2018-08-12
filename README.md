@@ -1,4 +1,4 @@
-# Evoplex: Evolutionary games and spatial chaos
+# Evolutionary games and spatial chaos
 
 ## What is it?
 
@@ -23,8 +23,8 @@ The figure below shows a screenshot of an experiment in Evoplex using this model
 </p>
 
 ## References
-- [1] Nowak, M. A., & May, R. M. (1992). Evolutionary games and spatial chaos. Nature, 359(6398), 826. DOI: [](http://dx.doi.org/10.1038/359826a0)
-- [2] Nowak, M. A., & Sigmund, K. (2004). Evolutionary dynamics of biological games. science, 303(5659), 793-799. DOI: [](https://doi.org/10.1126/science.1093411)
+- [1] Nowak, M. A., & May, R. M. (1992). Evolutionary games and spatial chaos. Nature, 359(6398), 826. DOI: [http://dx.doi.org/10.1038/359826a0](http://dx.doi.org/10.1038/359826a0)
+- [2] Nowak, M. A., & Sigmund, K. (2004). Evolutionary dynamics of biological games. science, 303(5659), 793-799. DOI: [https://doi.org/10.1126/science.1093411](https://doi.org/10.1126/science.1093411)
 
 ## How to cite
 If you mention this model or the Evoplex software in a publication, please cite it as:
