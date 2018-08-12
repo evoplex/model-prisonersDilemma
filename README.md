@@ -14,12 +14,13 @@ In this model, agents are placed in a grid, where in each round:
 
 This simple, and purely deterministic, spatial version of the prisoner's dilemma game, with no memories among players and no strategical elaboration, can generate chaotically changing spatial patterns, including kaleidoscopes, dynamic fractals, gliders, and so on.
 
-## Examples of use
+## Examples
 
-<figure align="center">
-  <img src="example.jpg" alt="Example" width="70%">
-  <figcaption>Fig.1 - this model in action in Evoplex. We start with a population of cooperators and place one defector (<i>strategy=1</i>) in the middle of the grid.</figcaption>
-</figure>
+The figure below shows a screenshot of an experiment in Evoplex using this model. In this experiment, the model is initialized with a population of 99x99 cooperators (i.e., all agents with <i>strategy=0</i>); after this, we place one defector (<i>strategy=1</i>) in the middle of the grid. In a few steps, it is possible to observe the formation of different patterns.
+
+<p align="center">
+<img src="example.jpg" alt="Example" width="70%">
+</p>
 
 ## References
 - [1] Nowak, M. A., & May, R. M. (1992). Evolutionary games and spatial chaos. Nature, 359(6398), 826. DOI: [](http://dx.doi.org/10.1038/359826a0)
