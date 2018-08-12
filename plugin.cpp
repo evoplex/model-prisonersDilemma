@@ -17,7 +17,8 @@ bool ModelNowak::init()
 
 bool ModelNowak::algorithmStep()
 {
-    // 1. each agent accumulates the payoff obtained by playing the game with all its neighbours and itself
+    // 1. each agent accumulates the payoff obtained by playing
+    //    the game with all its neighbours and itself
     for (Node node : nodes()) {
         const int sX = node.attr(STRATEGY).toInt();
         double score = playGame(sX, sX);
