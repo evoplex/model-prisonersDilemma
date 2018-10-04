@@ -1,4 +1,4 @@
-# Evolutionary games and spatial chaos
+# Prisoner's Dilemma Game
 
 ## What is it?
 
