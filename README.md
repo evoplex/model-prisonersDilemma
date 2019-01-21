@@ -16,6 +16,12 @@ This simple, and purely deterministic, spatial version of the prisoner's dilemma
 
 ## Examples
 
+<p align="center">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=79YewPo6do0" target="_blank">
+<img src="http://img.youtube.com/vi/79YewPo6do0/0.jpg" alt="Evoplex" width="240" height="180" border="10" />
+</a>
+</p>
+
 The figure below shows a screenshot of an experiment in Evoplex using this model. In this experiment, the model is initialized with a population of 99x99 cooperators (i.e., all agents with <i>strategy=0</i>); after this, we place one defector (<i>strategy=1</i>) in the middle of the grid. In a few steps, it is possible to observe the formation of different patterns.
 
 <p align="center">
