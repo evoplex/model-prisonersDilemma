@@ -35,7 +35,7 @@ The figure below shows a screenshot of an experiment in Evoplex using this model
 ## How to cite
 If you mention this model or the Evoplex software in a publication, please cite it as:
 
-> Marcos Cardinot, Colm O'Riordan, & Josephine Griffith (2018). Evoplex: an agent-based modeling platform for networks. Zenodo. http://doi.org/10.5281/zenodo.1340734
+> Cardinot, M., O'Riordan, C., Griffith, J., & Perc, M. (2018). Evoplex: A platform for agent-based modeling on networks. [arXiv preprint arXiv:1811.10116](https://arxiv.org/abs/1811.10116).
 
 ## License
 This plugin is licensed under the [MIT License](https://opensource.org/licenses/MIT) terms.
